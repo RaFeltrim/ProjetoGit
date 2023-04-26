@@ -1,5 +1,5 @@
-Olá esse projeto ensina a vocêa usar o Git
- Isso é uma alteração
+ # Olá esse projeto ensina a vocêa usar o Git
+  # Isso é uma alteração
 1. Git init (usado para entrar diretamente na "master")
 2. Git add (nome do arquivo)
 3. Git status (mostra se há ou não commits)
